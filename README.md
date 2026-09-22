@@ -2,7 +2,7 @@
 > **XG5000(Virtual PLC) + XP-Builder(HMI) + Unity 3D 실시간 동기화 포트폴리오**
 
 ![Demo](./docs/demo.gif)
-*(※ OBS로 녹화한 영상 중 핵심 10~15초 구간을 GIF로 변환해 여기에 첨부하세요)*
+
 
 ---
 
